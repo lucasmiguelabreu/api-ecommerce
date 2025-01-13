@@ -1,0 +1,21 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar o arquivo .env
+.env
+
+# Logs
+logs/
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor de código
+.vscode/
+.idea/
+
+# Build de produção
+dist/
+build/
